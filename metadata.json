@@ -1,0 +1,7 @@
+{
+  "name": "NutriFlow Pro - Red Edition",
+  "description": "A high-performance nutrition and hydration tracker with AI-powered meal analysis using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
